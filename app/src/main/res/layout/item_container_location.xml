@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.AppCompatTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/textRemoteLocation"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:paddingTop="@dimen/_8sdp"
+    android:paddingBottom="@dimen/_8sdp"
+    android:textColor="@color/raisin_black"
+    android:textSize="@dimen/_12sdp"
+    tools:text="Hai Ba Trung, Ha Noi, VietNam" />
+
